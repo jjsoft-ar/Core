@@ -4,7 +4,7 @@ use FloatingPoint\Stylist\Facades\ThemeFacade as Theme;
 use Illuminate\Routing\Controller;
 use Modules\Core\Foundation\Asset\Manager\AssetManager;
 use Modules\Core\Foundation\Asset\Pipeline\AssetPipeline;
-use Pingpong\Modules\Facades\Module;
+use Nwidart\Modules\Facades\Module;
 
 class AdminBaseController extends Controller
 {

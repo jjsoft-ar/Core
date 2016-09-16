@@ -3,8 +3,8 @@
 use Illuminate\Foundation\AliasLoader;
 use Illuminate\Support\ServiceProvider;
 use Modules\Translation\Providers\TranslationServiceProvider;
-use Pingpong\Modules\Facades\Module;
-use Pingpong\Modules\ModulesServiceProvider;
+use Nwidart\Modules\Facades\Module;
+use Nwidart\Modules\ModulesServiceProvider;
 
 class AsgardServiceProvider extends ServiceProvider
 {
